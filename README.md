@@ -1,4 +1,5 @@
 # Proyecto 2: Gestor de Tareas con Recordatorios
+
 Descripción:
 
 El proyecto de Gestor de Tareas con Recordatorios es una aplicación de consola que 
@@ -11,9 +12,15 @@ fecha de vencimiento.
 
 •  Los usuarios pueden agregar nuevas tareas especificando un título, una descripción 
    y una fecha de vencimiento opcional.
+
+   
 •  Las tareas pueden ser marcadas como completadas, lo que las moverá a una lista 
    de tareas completadas.
+
+   
 •  Los usuarios pueden ver todas las tareas pendientes, así como las tareas 
    completadas.
+
+   
 •  Los usuarios recibirán notificaciones cuando una tarea esté próxima a su fecha de 
    vencimiento, permitiéndoles estar al tanto de las tareas importantes
